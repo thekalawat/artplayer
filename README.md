@@ -1,6 +1,3 @@
----
-
-````markdown
 # ArtPlayer Video Embed Plugin for WordPress
 
 This WordPress plugin allows you to easily embed videos using the powerful [ArtPlayer](https://artplayer.org/) HTML5 video player via a simple shortcode.
@@ -39,5 +36,3 @@ Use the following shortcode anywhere in your posts or pages:
 ## 📄 License
 
 GPLv3 or later — [View License](https://www.gnu.org/licenses/gpl-3.0.html)
-
----
